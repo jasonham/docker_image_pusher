@@ -5,3 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
+teslamate/teslamate:latest
+postgres:16
+teslamate/grafana:latest
+eclipse-mosquitto:2
+traefik:v2.7
