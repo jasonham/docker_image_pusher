@@ -10,3 +10,4 @@ postgres:16
 teslamate/grafana:latest
 eclipse-mosquitto:2
 traefik:v2.7
+jellyfin/jellyfin:latest
