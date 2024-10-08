@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist:latest
 teslamate/teslamate:latest
-postgres:16
+postgres:17
 teslamate/grafana:latest
 eclipse-mosquitto:2
 traefik:v2.7
