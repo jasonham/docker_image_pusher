@@ -13,3 +13,5 @@ traefik:v2.7
 jellyfin/jellyfin:latest
 mzz2017/v2raya:latest
 linuxserver/plex:latest
+
+sanjusss/aliyun-ddns
