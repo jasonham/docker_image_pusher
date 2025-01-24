@@ -4,17 +4,18 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xiaoyaliu/alist:latest
-teslamate/teslamate:latest
-postgres:17
-teslamate/grafana:latest
-eclipse-mosquitto:2
-traefik:v2.7
-jellyfin/jellyfin:latest
-mzz2017/v2raya:latest
-linuxserver/plex:latest
+#xiaoyaliu/alist:latest
+#teslamate/teslamate:latest
+#postgres:17
+#teslamate/grafana:latest
+#eclipse-mosquitto:2
+#traefik:v2.7
+#jellyfin/jellyfin:latest
+#mzz2017/v2raya:latest
+#linuxserver/plex:latest
 
-sanjusss/aliyun-ddns:latest
-linuxserver/qbittorrent:latest
+#sanjusss/aliyun-ddns:latest
+#linuxserver/qbittorrent:latest
 
-deluan/navidrome:latest
+#deluan/navidrome:latest
+xhongc/music_tag_web:latest
