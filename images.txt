@@ -16,3 +16,5 @@ linuxserver/plex:latest
 
 sanjusss/aliyun-ddns:latest
 linuxserver/qbittorrent:latest
+
+deluan/navidrome:latest
