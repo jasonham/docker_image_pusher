@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#xiaoyaliu/alist:latest
+xiaoyaliu/alist:latest
 #teslamate/teslamate:latest
 #postgres:17
 #teslamate/grafana:latest
@@ -18,4 +18,4 @@
 #linuxserver/qbittorrent:latest
 
 #deluan/navidrome:latest
-xhongc/music_tag_web:latest
+#xhongc/music_tag_web:latest
