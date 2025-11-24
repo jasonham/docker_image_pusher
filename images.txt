@@ -5,11 +5,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #xiaoyaliu/alist:latest
-teslamate/teslamate:latest
-postgres:18-trixie
-teslamate/grafana:latest
-eclipse-mosquitto:2
-traefik:v3.6
+#teslamate/teslamate:latest
+#postgres:18-trixie
+#teslamate/grafana:latest
+#eclipse-mosquitto:2
+#traefik:v3.6
 #jellyfin/jellyfin:latest
 #mzz2017/v2raya:latest
 #linuxserver/plex:latest
@@ -19,3 +19,6 @@ traefik:v3.6
 
 #deluan/navidrome:latest
 #xhongc/music_tag_web:latest
+
+#音乐服务器
+lmscommunity/lyrionmusicserver:latest
