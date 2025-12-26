@@ -23,4 +23,6 @@
 #音乐服务器
 #lmscommunity/lyrionmusicserver:latest
 
-ghcr.io/sagernet/sing-box:latest
+#ghcr.io/sagernet/sing-box:latest
+
+redis
