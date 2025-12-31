@@ -25,4 +25,6 @@
 
 #ghcr.io/sagernet/sing-box:latest
 
-redis
+#redis
+
+mediagis/nominatim:5.2
