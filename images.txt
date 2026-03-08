@@ -27,4 +27,6 @@
 
 #redis
 
-mediagis/nominatim:5.2
+#mediagis/nominatim:5.2
+
+alpine:latest
