@@ -9,7 +9,9 @@
 #postgres:18-trixie
 #teslamate/grafana:latest
 #eclipse-mosquitto:2
-#traefik:v3.6
+
+traefik:v3.6
+
 #jellyfin/jellyfin:latest
 #mzz2017/v2raya:latest
 #linuxserver/plex:latest
@@ -28,6 +30,8 @@
 #redis
 
 #mediagis/nominatim:5.2
---platform=linux/arm64 mediagis/nominatim:5.2-2025-12-04T14-31
+#--platform=linux/arm64 mediagis/nominatim:5.2-2025-12-04T14-31
 
-alpine:latest
+#alpine:latest
+
+cloudflare/cloudflared:latest
