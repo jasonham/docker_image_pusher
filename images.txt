@@ -10,14 +10,14 @@
 #teslamate/grafana:latest
 #eclipse-mosquitto:2
 
-traefik:v3.6
+#traefik:v3.6
 
 #jellyfin/jellyfin:latest
 #mzz2017/v2raya:latest
 #linuxserver/plex:latest
 
 #sanjusss/aliyun-ddns:latest
-#linuxserver/qbittorrent:latest
+linuxserver/qbittorrent:latest
 
 #deluan/navidrome:latest
 #xhongc/music_tag_web:latest
@@ -34,4 +34,6 @@ traefik:v3.6
 
 #alpine:latest
 
-cloudflare/cloudflared:latest
+#cloudflare/cloudflared:latest
+
+favonia/cloudflare-ddns
