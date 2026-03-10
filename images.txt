@@ -19,8 +19,8 @@
 #sanjusss/aliyun-ddns:latest
 linuxserver/qbittorrent:latest
 
-#deluan/navidrome:latest
-#xhongc/music_tag_web:latest
+deluan/navidrome:latest
+xhongc/music_tag_web:latest
 
 #音乐服务器
 #lmscommunity/lyrionmusicserver:latest
@@ -36,4 +36,4 @@ linuxserver/qbittorrent:latest
 
 #cloudflare/cloudflared:latest
 
-favonia/cloudflare-ddns
+#favonia/cloudflare-ddns
