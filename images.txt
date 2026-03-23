@@ -45,6 +45,8 @@
 #ghcr.io/immich-app/immich-server:v2
 #docker.io/valkey/valkey:9@sha256:3eeb09785cd61ec8e3be35f8804c8892080f3ca21934d628abc24ee4ed1698f6
 
---platform=linux/arm64 debian:stable-slim
+#--platform=linux/arm64 debian:stable-slim
+
+--platform=linux/arm64 ghcr.io/js-dos/js-dos
 
 #alpine:edge
